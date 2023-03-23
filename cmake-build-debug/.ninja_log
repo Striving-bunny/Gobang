@@ -1,0 +1,14 @@
+# ninja log v5
+3	2441	6779351475848175	CMakeFiles/GobangProject.dir/ChessGame.cpp.obj	cc95906939cb40d1
+2443	2812	6779351478958713	GobangProject.exe	67b9c6fb0ea8ace
+16	2352	6779343264206104	CMakeFiles/GobangProject.dir/main.cpp.obj	ca8a935ba1dc54fb
+3	304	6889185438509562	build.ninja	dd4324715c482e62
+2	2349	6779343264206104	CMakeFiles/GobangProject.dir/Man.cpp.obj	5f166cdf3ec6be14
+49	2369	6779343264518628	CMakeFiles/GobangProject.dir/AI.cpp.obj	2cf96d59c972ae45
+3	1434	6779346421494306	CMakeFiles/GobangProject.dir/Chess.cpp.obj	6eb460393d77a0f2
+1	1131	6889185476303360	CMakeFiles/GobangProject.dir/main.cpp.obj	ca8a935ba1dc54fb
+10	1134	6889185476323362	CMakeFiles/GobangProject.dir/Man.cpp.obj	5f166cdf3ec6be14
+33	1147	6889185476484100	CMakeFiles/GobangProject.dir/ChessGame.cpp.obj	cc95906939cb40d1
+18	1176	6889185476774121	CMakeFiles/GobangProject.dir/AI.cpp.obj	2cf96d59c972ae45
+26	1182	6889185476834133	CMakeFiles/GobangProject.dir/Chess.cpp.obj	6eb460393d77a0f2
+1182	1483	6889185479811270	GobangProject.exe	efc9dbff8920fb7d

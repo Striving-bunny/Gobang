@@ -1,0 +1,4 @@
+ToolSet: 17.0 (local)@D:\python\VS2022
+Options: msvc.arch=amd64
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/python/CLion 2022.2.4/bin/ninja/win/ninja.exe

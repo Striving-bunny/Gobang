@@ -1,0 +1,3 @@
+D:/python/Projects/CppProject/GobangProject/cmake-build-debug/CMakeFiles/GobangProject.dir
+D:/python/Projects/CppProject/GobangProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/python/Projects/CppProject/GobangProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
